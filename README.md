@@ -1,9 +1,9 @@
-﻿|Nama |Muhamad Jati Wasesa|
+﻿|Nama |Tyanshi Firli Maharani|
 | :- | :- |
-|Nim |312210481|
+|Nim |312210581|
 |Kelas |TI.22.A.5|
 |Mata Kuliah|Pemgraman Web 2|
-|Tugas |Praktikum 6|
+|Tugas |Lab11|
 
 ## **Layout admin artikel**
 ![](Aspose.Words.ea749257-f606-4f07-8ac8-f5e9c6669577.001.png)
