@@ -6,25 +6,33 @@
 |Tugas |Lab11|
 
 ## **Layout admin artikel**
-![](Aspose.Words.ea749257-f606-4f07-8ac8-f5e9c6669577.001.png)
+
+![Aspose Words ea749257-f606-4f07-8ac8-f5e9c6669577 001](https://github.com/firlimaharani/Lab11web/assets/130529482/94035f96-0e4a-46cf-b0ad-693b04cad050)
 
 ## **Halaman index artikel**
-![](Aspose.Words.ea749257-f606-4f07-8ac8-f5e9c6669577.002.png)
+
+![Aspose Words ea749257-f606-4f07-8ac8-f5e9c6669577 002](https://github.com/firlimaharani/Lab11web/assets/130529482/3edf6427-d604-4fb9-a0db-bce136fece23)
+
 ## **Halaman about**
-![](Aspose.Words.ea749257-f606-4f07-8ac8-f5e9c6669577.003.png)
+
+![Aspose Words ea749257-f606-4f07-8ac8-f5e9c6669577 003](https://github.com/firlimaharani/Lab11web/assets/130529482/00ab7270-864c-4a32-bc91-85a35e6fb88e)
 
 ## **Halaman menambahkan artikel**
-![](Aspose.Words.ea749257-f606-4f07-8ac8-f5e9c6669577.004.png)
+
+![Aspose Words ea749257-f606-4f07-8ac8-f5e9c6669577 004](https://github.com/firlimaharani/Lab11web/assets/130529482/45d20311-dc12-4caa-9046-010c773f87ae)
+
 ## **AjaxController**
-![](Aspose.Words.ea749257-f606-4f07-8ac8-f5e9c6669577.005.png)
 
-
-
+![Aspose Words ea749257-f606-4f07-8ac8-f5e9c6669577 005](https://github.com/firlimaharani/Lab11web/assets/130529482/62bd937a-2b9a-4f81-8459-53c4e0d8fa90)
 
 ## ` `**Sorce code View ajax index.php**
-![](Aspose.Words.ea749257-f606-4f07-8ac8-f5e9c6669577.006.png)
+
+![Aspose Words ea749257-f606-4f07-8ac8-f5e9c6669577 006](https://github.com/firlimaharani/Lab11web/assets/130529482/5363cb60-eff2-48cb-b425-79a1f5fbd808)
+
 ### Tampilan index.php
-![](Aspose.Words.ea749257-f606-4f07-8ac8-f5e9c6669577.007.png)
+
+![Aspose Words ea749257-f606-4f07-8ac8-f5e9c6669577 007](https://github.com/firlimaharani/Lab11web/assets/130529482/6291de71-cc27-4b0a-b915-107383fe73ca)
+
 # CodeIgniter 4 Framework
 
 ## What is CodeIgniter?
